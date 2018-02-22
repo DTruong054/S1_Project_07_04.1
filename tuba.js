@@ -52,6 +52,7 @@ function verifyAcres() {
 }
 
 /* verify at least one crops checkbox is checked */
+//Copied code and got file ready to bug fix.
 function verifyCrops() {
     try {
         for (var i = 0; i < 7; i++) {
